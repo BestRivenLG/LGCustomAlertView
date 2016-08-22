@@ -29,13 +29,13 @@
 
 - (void)customAlertView:(LGCustomAlertView *)alertView clickButtonWithTag:(NSInteger)buttonTag
 {
-    NSLog(@"%s",__func__);
+    NSLog(@"%s alert.tag = %ld, tag %ld",__func__,alertView.tag,buttonTag);
 
 }
 
 - (void)customAlertView:(LGCustomAlertView *)alertView clickLabelWithTag:(NSInteger)labelTag
 {
-    NSLog(@"%s",__func__);
+    NSLog(@"%s alert.tag = %ld, tag %ld",__func__,alertView.tag,labelTag);
 }
 
 @end

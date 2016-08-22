@@ -32,6 +32,9 @@
 - (instancetype) initWithTitle:(nullable NSString *)titleLabel  detail:(nullable NSString *)detailLabel delegate:(nullable id<LGCustomAlertViewDelegate>)delegate cancelButtonTitle:(nullable NSString *)cancelTitle otherButtonTitle:(nullable NSString *)otherTitle;
 
 
+
+
+
 - (void) show;
 
 @end

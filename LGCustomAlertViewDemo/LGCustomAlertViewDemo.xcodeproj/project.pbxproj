@@ -512,6 +512,7 @@
 				0483D4BC1D3345F800EF6512 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0483D4BD1D3345F800EF6512 /* Build configuration list for PBXNativeTarget "LGCustomAlertViewDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -520,6 +521,7 @@
 				0483D4BF1D3345F800EF6512 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0483D4C01D3345F800EF6512 /* Build configuration list for PBXNativeTarget "LGCustomAlertViewDemoUITests" */ = {
 			isa = XCConfigurationList;
@@ -528,6 +530,7 @@
 				0483D4C21D3345F800EF6512 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
