@@ -131,8 +131,8 @@
     self.horLabel.backgroundColor = [UIColor colorWithRed:0 green:0 blue:0 alpha:0.3];;
     [self.backGroundView addSubview:self.horLabel];
     
-    CGFloat verLabel_h = LGRealHeight(40);
-    CGFloat btn_h = LGRealHeight(30);
+    CGFloat verLabel_h = LGRealHeight(30);
+    CGFloat btn_h = LGRealHeight(20);
     CGFloat btn_margin = (verLabel_h - btn_h)/2.0;
     
     self.verLabel = [[UILabel alloc]init];
